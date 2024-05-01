@@ -14,7 +14,7 @@ This is a Django-based web application for managing patient information in a hos
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/Akhya-Singh/hospital-management-system.git
 ```
 
 2. Navigate to the project directory:
